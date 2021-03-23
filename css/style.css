@@ -24,7 +24,6 @@ a {
 }
 a:hover {
     color: black;
-
 }
 
 header .container {
@@ -43,7 +42,7 @@ header .menu-left ul li, .menu-right ul li {
 }
 
 header .menu-left ul li a {
-    padding: 0 10px;
+    padding: 0 12px;
 }
 
 header .right .box-btn .btn-1 {
@@ -54,7 +53,7 @@ header .right .box-btn .btn-1 {
 }
 
 header .menu-right ul li a {
-    padding: 0 10px;
+    padding: 0 12px;
 }
 
 header .right .box-btn .btn-2 {
@@ -63,11 +62,10 @@ header .right .box-btn .btn-2 {
     margin-left: 12px;
     color: orange;
     border-radius: 12px;
-
 }
 
 header .right .box-btn {
-    margin-left: 40px;
+    margin-left: 50px;
 }
 
 header .dropdown-menu {
